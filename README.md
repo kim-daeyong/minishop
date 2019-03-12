@@ -1,20 +1,15 @@
-# minishoppingmall
-
-# 패스트 캠퍼스 3기
-
-## 스프링 프레임워크를 활용한 미니 쇼핑몰 프로젝트
+# minishop 프로젝트
 
 ### SHOP DB ERD
-![GitPyCrawler](https://github.com/irerin07/minishoppingmall/blob/develop/ERD/shopdb%20ERD.PNG?raw=true "GitPyCrawler")
 
 ------------------------------------------
-## 조원
 
-* 김대용
-* 민경수
-* 윤여훈
-* 정미수
+* 사용 기술 : 스프링부트, 메이븐, 부트스트랩, Mysql, Lombok, 스프링 시큐리티
+
 ------------------------------------------
+
+예정 기능 
+
 1. 웰컴페이지
  - 검색 기능(상품이름 검색)
      * selectProductByName(상품 조회 - 상품이름 조회)
